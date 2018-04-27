@@ -1,0 +1,1 @@
+java -cp "ocsf.jar;";bin server.ServerGUI 8000
